@@ -8,6 +8,7 @@ public class Snake extends JComponent
 {
 	/**
 	 * abbbb
+	 * c
 	 */
 	private static final long serialVersionUID = 1L;
 	private static SnakeElement last;
