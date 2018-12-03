@@ -7,7 +7,7 @@ import javax.swing.JComponent;
 public class Snake extends JComponent
 {
 	/**
-	 * abeeee
+	 * abc
 	 */
 	private static final long serialVersionUID = 1L;
 	private static SnakeElement last;
