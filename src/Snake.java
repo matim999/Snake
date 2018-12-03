@@ -135,4 +135,5 @@ public class Snake extends JComponent
 	{
 		return Snake.SnakeElements.get(0);
 	}
+	//da
 }
